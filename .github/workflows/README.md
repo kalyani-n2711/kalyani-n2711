@@ -1,65 +1,133 @@
-<h1 align="center">🌸 Hi, I'm Kalyani 🌸</h1>
+<h1 align="center">Hi 👋, I'm Kalyani Agarwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+🎀;Learning+Something+New+Every+Day+🌷;Building+Projects+with+Python+💻;Dreaming+Big+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Deep+Learning+Learner;Building+Real-World+AI+Projects;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=FFC0CB&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=35"/>
-</p>
-
----
-
-## 🌷 About Me
-
-🎓 B.Tech AI & Data Science Student
-
-💗 Passionate about Artificial Intelligence & Machine Learning
-
-🌸 Currently learning Deep Learning & Generative AI
-
-💻 Love building projects with Python
-
-☁️ Always curious and always learning
-
----
-
-## 🎀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,mysql,vscode,tensorflow"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3B82F6,100:06B6D4&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-## 🌸 Currently Exploring
+## 👩‍💻 About Me
 
-🌷 Machine Learning
+```python
+class Kalyani:
 
-🧠 Deep Learning
+    education = "B.Tech AI & Data Science"
 
-🤖 Generative AI
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Generative AI",
+        "Data Analytics"
+    ]
 
-📊 Data Analytics
+    currently_learning = [
+        "MLOps",
+        "LLMs",
+        "Advanced Deep Learning"
+    ]
 
-✨ MLOps
+    motto = "Keep Learning • Keep Building 🚀"
+```
 
 ---
 
-## 💕 Fun Facts
+## 🚀 Tech Stack
 
-🌸 I enjoy solving real-world problems using AI.
+<p align="center">
 
-📚 I believe learning never stops.
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,mysql,vscode,tensorflow,opencv,linux"/>
 
-✨ Every project teaches me something new.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+</p>
+
+---
+
+## 🌌 Currently Exploring
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🎯 Computer Vision
+- ✨ Generative AI
+- ☁️ MLOps
+
+---
+
+## 💭 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Coding Mode
+
+<p align="center">
+
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</p>
+
+---
+
+## 🎨 Doodle Space
+
+<p align="center">
+
+<img width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+</p>
+
+---
+
+## 🎵 Spotify (Optional)
+
+Replace **YOUR_SPOTIFY_USER_ID** with your Spotify User ID.
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kalyani-n2711/kalyani-n2711/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🌟 Fun Fact
+
+> "Every project is a step toward becoming a better engineer."
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalyani-n2711&label=Profile+Views&color=ff69b4&style=flat-square"/>
-</p>
 
-<h3 align="center">
-💖 Thanks for visiting! Have a wonderful day! 💖
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:3B82F6,100:06B6D4"/>
+
+</p>
