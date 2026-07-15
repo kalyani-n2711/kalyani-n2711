@@ -1,42 +1,40 @@
 <h1 align="center">Hi 👋, I'm Kalyani Agarwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Deep+Learning+Learner;Building+Real-World+AI+Projects;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+AI+Projects;Always+Learning+New+Things🚀" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3B82F6,100:06B6D4&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-```python
-class Kalyani:
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-    education = "B.Tech AI & Data Science"
+🌱 Currently learning
 
-    interests = [
-        "Machine Learning",
-        "Deep Learning",
-        "Computer Vision",
-        "Generative AI",
-        "Data Analytics"
-    ]
+- Machine Learning
+- Deep Learning
+- Generative AI
+- MLOps
 
-    currently_learning = [
-        "MLOps",
-        "LLMs",
-        "Advanced Deep Learning"
-    ]
+💡 Interested in
 
-    motto = "Keep Learning • Keep Building 🚀"
-```
+- Artificial Intelligence
+- Computer Vision
+- Data Analytics
+- Predictive Modeling
+
+🚀 Building real-world AI projects
+
+🤝 Open to collaboration and open-source contributions
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -46,65 +44,69 @@ class Kalyani:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-
-</p>
-
----
-
-## 🌌 Currently Exploring
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🎯 Computer Vision
-- ✨ Generative AI
-- ☁️ MLOps
-
----
-
-## 💭 Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 💻 Coding Mode
+## 🚀 Featured Projects
+
+🧠 Alzheimer's Disease Prediction
+
+🩺 PCOS Ultrasound Analysis
+
+🌍 Delhi AQI Analysis
+
+🚗 Smart Car Parking System
+
+☀️ Smart Solar Phone Charger (IoT)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalyani-n2711&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani-n2711&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🎨 Doodle Space
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyani-n2711&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🎵 Spotify (Optional)
-
-Replace **YOUR_SPOTIFY_USER_ID** with your Spotify User ID.
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kalyani-n2711&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyani-n2711&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -118,16 +120,30 @@ Replace **YOUR_SPOTIFY_USER_ID** with your Spotify User ID.
 
 </p>
 
----
-
-## 🌟 Fun Fact
-
-> "Every project is a step toward becoming a better engineer."
+> **Note:** The snake animation will appear after you set up a GitHub Actions workflow.
 
 ---
+
+## 👀 Visitor Counter
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:3B82F6,100:06B6D4"/>
+<img src="https://komarev.com/ghpvc/?username=kalyani-n2711&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
+---
+
+## 📫 Connect With Me
+
+📧 your-email@example.com
+
+💼 GitHub: https://github.com/kalyani-n2711
+
+---
+
+<h3 align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+</h3>
